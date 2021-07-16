@@ -1,4 +1,5 @@
 # Blogging-System-with-CMS
+This is an Online blogging system project associated with Udemy online course. 
 ### Table of Contents
 
 1. [Installation](#installation)
